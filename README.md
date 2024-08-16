@@ -1,1 +1,2 @@
-touch README.md
+это мой гит
+
